@@ -18,4 +18,4 @@
 - [ConvertMIB](convertMIB.md)
   - [需求条件](convertMIB.md#需求条件)
   - [转换MIB文件](convertMIB.md#转换MIB文件)
-  - [工作原理](
+  - [工作原理](convertMIB.md#工作原理)
