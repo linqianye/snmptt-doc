@@ -1,5 +1,7 @@
 # SNMP Trap Translator v1.4.2
 
+SNMPTT (SNMP Trap Translator) 是一个用 Perl 编写的 SNMP trap 处理程序，用于 Net-SNMP/UCD-SNMP 的 snmptrapd 程序。SNMPTT 支持 Linux、Unix 和 Windows。
+
 - [SNMPTT](snmptt.md)
   - [SNMPTT简介](snmptt.md#SNMPTT简介)
   - [安装](snmptt.md#安装)
